@@ -1,0 +1,25 @@
+@media screen and (max-width:1000px) {
+    nav {
+        flex-direction: column;
+    }
+    .logo {
+        justify-content: center;
+        margin: 12px 0px;
+    }
+    nav ul {
+        justify-content: center;
+    }
+    .searchbar {
+        justify-content: center;
+        margin: 0px 30px 10px 0px;
+    }
+    .searchbar input {
+        align-items: center;
+    }
+    .slider {
+        height: 30vh;
+    }
+    .card-item {
+        width: 138px;
+    }
+}
